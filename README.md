@@ -1,3 +1,4 @@
+# King-Davex
 #  Hi, I'm David Imo-owoh Essien
 
  **Mobile Developer | Flutter Enthusiast | Dart Lover**
@@ -19,6 +20,8 @@ I focus on writing clean, maintainable code and bringing ideas to life with Flut
 
  Featured Projects
 -  [Currency Converter App](https://github.com/King-Davex/Currency-Converter-App)
+-    [Weather App](https://github.com/King-Davex/weather_app)
+  
 
 
  Connect With Me

@@ -1,4 +1,3 @@
-# DavidEssien
 #  Hi, I'm David Imo-owoh Essien
 
  **Mobile Developer | Flutter Enthusiast | Dart Lover**
